@@ -1,4 +1,4 @@
-# HourGlass-HackerRank-
+# HourGlass-HackerRank
 An hourglass in  is a subset of values with indices falling in this pattern in array's graphical representation:
 
 a b c
